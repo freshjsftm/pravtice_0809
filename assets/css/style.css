@@ -48,3 +48,9 @@ a{
 .list-item:hover>.sub-nav-list{
   display: block;
 }
+
+.sub-nav-list .sub-nav-list{
+  left: 100%;
+  width: 100%;
+  top:0;
+}
